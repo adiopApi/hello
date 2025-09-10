@@ -1,2 +1,2 @@
 # hello
-Hello World repository on GitHub.
+Hello World repository from Adiop API on GitHub.
